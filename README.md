@@ -1,1 +1,2 @@
-Made for my author-page.
+著者ぺ用
+for my author-page.
